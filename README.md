@@ -84,7 +84,7 @@ The model showed strong generalization performance on unseen data.
 
 ##  Model Pipeline
 
-- A separate prediction script (`fraud_pipeline.py`) is included to automate:
+- A separate prediction script (`fraud_pipeline.ipynb`) is included to automate:
   1. Loading new transaction data
   2. Applying preprocessing
   3. Loading the trained model
