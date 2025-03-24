@@ -1,13 +1,14 @@
 #  Credit Card Fraud Detection using Machine Learning
 
 This project tackles the challenge of detecting fraudulent credit card transactions in a highly imbalanced dataset using advanced machine learning techniques. The full process includes data preprocessing, class balancing, model training, evaluation, and pipeline development — all implemented in Python and google Colab.
+---
 
 Project Overview
 
 Credit card fraud is a growing global issue, costing financial institutions billions annually. Detecting such rare events among thousands of legitimate transactions requires highly sensitive models that prioritize recall and precision over accuracy.
 
 This project uses LightGBM, a high-performance gradient boosting algorithm, and SMOTE, a popular oversampling technique, to address the class imbalance problem and improve model performance on fraud detection tasks.
-
+---
 
 ## Dataset
 
