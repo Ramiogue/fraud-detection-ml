@@ -1,6 +1,6 @@
 #  Credit Card Fraud Detection using Machine Learning
 
-This project tackles the challenge of detecting fraudulent credit card transactions in a highly imbalanced dataset using advanced machine learning techniques. The full process includes data preprocessing, class balancing, model training, evaluation, and pipeline development — all implemented in Python and google Colab.
+This project tackles the challenge of detecting fraudulent credit card transactions in a highly imbalanced dataset using advanced machine learning techniques. The full process includes data preprocessing, class balancing, model training, evaluation, and pipeline development, all implemented in Python and google Colab.
 
 ---
 
